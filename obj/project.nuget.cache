@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "5//IOwPf3lM=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\rstertz\\source\\VSCode\\Coursera\\UserManagementAPI\\UserManagementAPI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rstertz\\.nuget\\packages\\microsoft.aspnetcore.openapi\\10.0.5\\microsoft.aspnetcore.openapi.10.0.5.nupkg.sha512",
+    "C:\\Users\\rstertz\\.nuget\\packages\\microsoft.openapi\\2.0.0\\microsoft.openapi.2.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
